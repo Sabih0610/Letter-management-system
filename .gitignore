@@ -1,0 +1,18 @@
+# Node / Frontend
+client/node_modules
+client/dist
+
+# Python / Backend
+server/.venv
+server/__pycache__
+server/**/__pycache__
+server/**/*.pyc
+server/uploads
+
+# Environment
+.env
+client/.env
+server/.env
+
+# Logs
+*.log
